@@ -1,2 +1,0 @@
-# Yahyasarmini
-# OOS1
