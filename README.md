@@ -3,9 +3,6 @@
 
 I am a student aspiring to become a software engineer. Learning and experimenting with new things is what drives me. I find great joy in exploring the world of programming and diving into various technologies. My true passion lies in solving problems through code. I love the feeling of accomplishment that comes with creating functional and efficient software solutions. With each project, I aim to expand my knowledge and skills in the field of software engineering.
 
-* 🌍  I'm based in Stuttgart
-* ✉️  You can contact me at [Yahiyasarmini@gmail.com](mailto:Yahiyasarmini@gmail.com)
-* 🧠  I'm learning JavaScript
 
 ### Skills
 
